@@ -1,0 +1,12 @@
+# 构建/发布产物（可重新生成）
+publish/
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+
+# 系统垃圾
+.DS_Store
+Thumbs.db
+desktop.ini
